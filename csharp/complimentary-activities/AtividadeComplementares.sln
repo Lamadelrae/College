@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33516.290
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AtividadeComplementares", "AtividadeComplementares\AtividadeComplementares.csproj", "{E5F79069-70EE-4C25-9EE2-66FBDA14DDC8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AtividadesComplementaresTests", "AtividadesComplementaresTests\AtividadesComplementaresTests.csproj", "{7D0369F6-2472-4E82-B43B-B538CF269B8C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E5F79069-70EE-4C25-9EE2-66FBDA14DDC8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E5F79069-70EE-4C25-9EE2-66FBDA14DDC8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E5F79069-70EE-4C25-9EE2-66FBDA14DDC8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E5F79069-70EE-4C25-9EE2-66FBDA14DDC8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7D0369F6-2472-4E82-B43B-B538CF269B8C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7D0369F6-2472-4E82-B43B-B538CF269B8C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7D0369F6-2472-4E82-B43B-B538CF269B8C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7D0369F6-2472-4E82-B43B-B538CF269B8C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B78E8FB4-E303-40EB-91E5-3180B89B9A84}
+	EndGlobalSection
+EndGlobal
